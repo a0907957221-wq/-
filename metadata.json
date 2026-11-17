@@ -1,0 +1,6 @@
+{
+  "name": "Python 類別與物件互動學習工坊",
+  "description": "結合課程主題的 Python 物件導向（Class & Object）互動視覺化學習網頁，涵蓋類別藍圖、實體記憶體模擬、繼承封裝、隨堂挑戰，以及 GitHub 上傳與 Netlify 佈署指南。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
